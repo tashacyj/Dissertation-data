@@ -7,4 +7,4 @@ Pre-covid Final.R contains R code that produced the pre-covid anti-immigration t
 The accompanying csv files are (a) precoviddata.csv, (b) precovid_large.csv and (c) precovid_statesfavourable.csv. 
 
 Visuals.R contains the code used to create the Tables and Figures in the Supplementary Material. 
-This file requires the Complete Final.R file to be run before it can be run. 
+This file requires the Final.R file to be run before it can be run. 
